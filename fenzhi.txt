@@ -1,0 +1,13 @@
+git  branch    　　　　     查看分支
+
+git  branch  <name>　　 创建 <name> 分支
+
+git  branch  -d  <name>   删除 <name>分支
+
+git  checkout  <name>　　切换分支
+
+git   merge  <name>        将  <name> 分支合并到当前分支
+
+　　冲突问题只能手动解决
+
+　　解决完冲突记得提交
